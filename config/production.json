@@ -1,5 +1,5 @@
 {
-  "TELEGRAM_TOKEN": "6224324370:AAEtr6YDUspNCcsqL4Qn3KbyiaOrOLs53gw",
+  "TELEGRAM_TOKEN": "ввести сюда токет чата",
   "OPENAI_KEY": "ввести сюда ключ с сайта openai.com, для production нужно создавать другого бота",
   "TEST_ENV": "prod"
 }
